@@ -1,0 +1,1 @@
+This is a simple rock paper and Scissors program where i will practice lessons learned in Javascript and DOM manipulation.
